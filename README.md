@@ -38,10 +38,6 @@ A simple web application that allows users to search for a city to get the curre
 ## Mock-Up
 ![](assets/images/06-server-side-apis-homework-demo.jpeg)
 
-## Technologies Use
-<p><a href="https://openweathermap.org/">OpenWeather API</a></p>
-<p><a href="https://getbootstrap.com/">Bootstrap</a></p>
-
 
 ## Contributor:
 Dhivya Bharathi ©2025 All Rights Reserved.
