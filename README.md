@@ -39,6 +39,6 @@ A simple web application that allows users to search for a city to get the curre
 ![](assets/images/06-server-side-apis-homework-demo.jpeg)
 
 
-## Contributor:
-Dhivya Bharathi ©2025 All Rights Reserved.
+## Developed:
+Dhivya Bharathi © 2025 All Rights Reserved.
 - - -
