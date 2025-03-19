@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f4f4f4;
+    background-color: white;
     margin: 0;
     padding: 20px;
 }
@@ -37,7 +37,7 @@ button:hover {
     background-color: #0056b3;
 }
 
-/* Weather info */
+/* Weather-Dashboard info */
 p {
     font-size: 1.2em;
     color: #555;
